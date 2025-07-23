@@ -4,6 +4,7 @@ app:
     min: 1
     max: 1
   version: 10f08b5f-3f1b-4629-a3c5-8e88be7f4c9b
+  endpoints: public
   env:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
