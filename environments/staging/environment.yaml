@@ -3,7 +3,7 @@ app:
   instances:
     min: 1
     max: 1
-  version: 5f0b2e04-ad01-441b-8e3b-c84e4acf2931
+  version: 08e59b9f-804b-48b2-821f-b356433e3882
   endpoints: public
   env:
     - name: io_openliberty_sample_system_inMaintenance
